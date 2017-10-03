@@ -12,6 +12,12 @@
 		C0F820181C35BD75001EA4F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0F820161C35BD75001EA4F5 /* Main.storyboard */; };
 		C0F8201A1C35BD75001EA4F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0F820191C35BD75001EA4F5 /* Assets.xcassets */; };
 		C0F8201D1C35BD75001EA4F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0F8201B1C35BD75001EA4F5 /* LaunchScreen.storyboard */; };
+		C0F8202A1C35C28E001EA4F5 /* CebolinhaLapis.png in Resources */ = {isa = PBXBuildFile; fileRef = C0F820241C35C28E001EA4F5 /* CebolinhaLapis.png */; };
+		C0F8202B1C35C28E001EA4F5 /* CebolinhaToy.png in Resources */ = {isa = PBXBuildFile; fileRef = C0F820251C35C28E001EA4F5 /* CebolinhaToy.png */; };
+		C0F8202C1C35C28E001EA4F5 /* MônicaLapis.png in Resources */ = {isa = PBXBuildFile; fileRef = C0F820261C35C28E001EA4F5 /* MônicaLapis.png */; };
+		C0F8202D1C35C28E001EA4F5 /* monicaToy.png in Resources */ = {isa = PBXBuildFile; fileRef = C0F820271C35C28E001EA4F5 /* monicaToy.png */; };
+		C0F8202E1C35C28E001EA4F5 /* tabuleiro.png in Resources */ = {isa = PBXBuildFile; fileRef = C0F820281C35C28E001EA4F5 /* tabuleiro.png */; };
+		C0F8202F1C35C28E001EA4F5 /* Turma da Monica.png in Resources */ = {isa = PBXBuildFile; fileRef = C0F820291C35C28E001EA4F5 /* Turma da Monica.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		C0F820191C35BD75001EA4F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0F8201C1C35BD75001EA4F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0F8201E1C35BD75001EA4F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0F820241C35C28E001EA4F5 /* CebolinhaLapis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CebolinhaLapis.png; sourceTree = "<group>"; };
+		C0F820251C35C28E001EA4F5 /* CebolinhaToy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CebolinhaToy.png; sourceTree = "<group>"; };
+		C0F820261C35C28E001EA4F5 /* MônicaLapis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MônicaLapis.png"; sourceTree = "<group>"; };
+		C0F820271C35C28E001EA4F5 /* monicaToy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monicaToy.png; sourceTree = "<group>"; };
+		C0F820281C35C28E001EA4F5 /* tabuleiro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabuleiro.png; sourceTree = "<group>"; };
+		C0F820291C35C28E001EA4F5 /* Turma da Monica.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Turma da Monica.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +67,12 @@
 			isa = PBXGroup;
 			children = (
 				C0F820121C35BD75001EA4F5 /* AppDelegate.swift */,
+				C0F820241C35C28E001EA4F5 /* CebolinhaLapis.png */,
+				C0F820251C35C28E001EA4F5 /* CebolinhaToy.png */,
+				C0F820261C35C28E001EA4F5 /* MônicaLapis.png */,
+				C0F820271C35C28E001EA4F5 /* monicaToy.png */,
+				C0F820281C35C28E001EA4F5 /* tabuleiro.png */,
+				C0F820291C35C28E001EA4F5 /* Turma da Monica.png */,
 				C0F820141C35BD75001EA4F5 /* ViewController.swift */,
 				C0F820161C35BD75001EA4F5 /* Main.storyboard */,
 				C0F820191C35BD75001EA4F5 /* Assets.xcassets */,
@@ -122,9 +140,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0F8202D1C35C28E001EA4F5 /* monicaToy.png in Resources */,
 				C0F8201D1C35BD75001EA4F5 /* LaunchScreen.storyboard in Resources */,
+				C0F8202F1C35C28E001EA4F5 /* Turma da Monica.png in Resources */,
+				C0F8202C1C35C28E001EA4F5 /* MônicaLapis.png in Resources */,
 				C0F8201A1C35BD75001EA4F5 /* Assets.xcassets in Resources */,
 				C0F820181C35BD75001EA4F5 /* Main.storyboard in Resources */,
+				C0F8202A1C35C28E001EA4F5 /* CebolinhaLapis.png in Resources */,
+				C0F8202B1C35C28E001EA4F5 /* CebolinhaToy.png in Resources */,
+				C0F8202E1C35C28E001EA4F5 /* tabuleiro.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +310,7 @@
 				C0F820231C35BD75001EA4F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
